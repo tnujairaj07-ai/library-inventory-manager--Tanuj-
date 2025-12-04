@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Introduction to Python",
+        "author": "John Smith",
+        "isbn": "PY001",
+        "status": "available"
+    },
+    {
+        "title": "Data Structures in C",
+        "author": "Anita Sharma",
+        "isbn": "CS002",
+        "status": "available"
+    },
+    {
+        "title": "Basics of Algorithms",
+        "author": "Ravi Kumar",
+        "isbn": "CS003",
+        "status": "available"
+    },
+    {
+        "title": "Computer Networks Fundamentals",
+        "author": "Neha Verma",
+        "isbn": "CS004",
+        "status": "available"
+    },
+    {
+        "title": "Database Management Systems",
+        "author": "Arjun Mehta",
+        "isbn": "CS005",
+        "status": "available"
+    }
+]
